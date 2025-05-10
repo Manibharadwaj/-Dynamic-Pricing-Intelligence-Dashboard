@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+.env
+.venv/
+env/
+venv/
+
+# Package artifacts
+*.egg-info/
+build/
+dist/
+
+# Streamlit and configs
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# Models, logs, and static data
+*.pkl
+*.joblib
+*.log
+*.csv
+*.tsv
+*.db
+*.sqlite3
+*.h5
+
+# IDE & editor junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
