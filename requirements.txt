@@ -58,9 +58,5 @@ urllib3==2.4.0
 watchdog==6.0.0
 xgboost==2.1.4
 XlsxWriter==3.2.3
-<<<<<<< HEAD
 zipp==3.21.0
 uvicorn
-=======
-zipp==3.21.0
->>>>>>> 1ba0b5dd94dfade35506f84428eac4e868022692
